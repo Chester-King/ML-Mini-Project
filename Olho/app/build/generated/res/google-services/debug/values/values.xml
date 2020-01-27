@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">913063609343-svf3t1to55en8hkt8ugi8mb1j14tjj5v.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://olho-515a1.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">913063609343</string>
+    <string name="google_api_key" translatable="false">AIzaSyAsfAmLiuHkukZOfM0wsVHj-_CGWXo7ihg</string>
+    <string name="google_app_id" translatable="false">1:913063609343:android:692830edb7061ee5da1dca</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAsfAmLiuHkukZOfM0wsVHj-_CGWXo7ihg</string>
+    <string name="google_storage_bucket" translatable="false">olho-515a1.appspot.com</string>
+    <string name="project_id" translatable="false">olho-515a1</string>
+</resources>

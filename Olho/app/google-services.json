@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "913063609343",
+    "firebase_url": "https://olho-515a1.firebaseio.com",
+    "project_id": "olho-515a1",
+    "storage_bucket": "olho-515a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913063609343:android:692830edb7061ee5da1dca",
+        "android_client_info": {
+          "package_name": "com.example.olho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913063609343-unr13riovi731vrkk9irq7araqd513se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.olho",
+            "certificate_hash": "88a272d39cc913a0c2a9232354adfaf3a3c60af1"
+          }
+        },
+        {
+          "client_id": "913063609343-svf3t1to55en8hkt8ugi8mb1j14tjj5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsfAmLiuHkukZOfM0wsVHj-_CGWXo7ihg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913063609343-svf3t1to55en8hkt8ugi8mb1j14tjj5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
