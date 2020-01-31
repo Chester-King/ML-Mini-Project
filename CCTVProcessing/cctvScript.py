@@ -12,7 +12,7 @@ import os
 
 
 config = {
-    "apiKey": "VO1Pt1UqZzduecyURCJnvgDFqikKtkvuKxXJEYqo",
+    "apiKey": "<API Key>",
     "authDomain": "olho-515a1.firebaseapp.com",
     "databaseURL": "https://olho-515a1.firebaseio.com",
     "storageBucket": "olho-515a1.appspot.com"
