@@ -1566,6 +1566,7 @@ id background
 id barrier
 id beginning
 id block1
+id block2
 id blocking
 id bottom
 id buttonPanel
