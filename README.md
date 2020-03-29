@@ -21,7 +21,7 @@ The algorithm is set for detecting cars and trucks using the COCO-labels. Using 
 
 ### Implementation
 
-You can get the implementation video [here](https://drive.google.com/open?id=1FVFZ_VdlSrjrDD45XvFd7N2zqmxfvZ5X)
+You can get the implementation video [here](https://drive.google.com/open?id=14HmKPLL8RHc92QppbMS2oamxSrQz2Maz)
 
 As you will be seeing in the video that as soon as the car disappears in the CCTV feed the android application data changes.
 
