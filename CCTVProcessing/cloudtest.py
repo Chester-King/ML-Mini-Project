@@ -2,10 +2,10 @@ import pyrebase
 import time
 
 config = {
-    "apiKey": "oS2ePY7XoMNXyLDVYqQ56RjlIIWQ6IbzTG8tVbov",
-    "authDomain": "smart-park-9f117.firebaseapp.com",
-    "databaseURL": "https://smart-park-9f117.firebaseio.com",
-    "storageBucket": "smart-park-9f117.appspot.com"
+    "apiKey": "<API Key>",
+    "authDomain": "olho-515a1.firebaseapp.com",
+    "databaseURL": "https://olho-515a1.firebaseio.com",
+    "storageBucket": "olho-515a1.appspot.com"
 }
 
 firebase = pyrebase.initialize_app(config)
